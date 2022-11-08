@@ -1,8 +1,13 @@
 # Bullockcart-Creation
+~~~
+Name: Koduru Sanath Kumar Reddy
+Dept: 212221240024
+~~~
 
-##Aim:To creat a scene of moving Bullockcart.
+## Aim:To creat a scene of moving Bullockcart.
 
-##Procedure
+
+## Procedure
 1. Start the process by creating a rectanlge and extruding it. 
 2. Make side fences and combine all of them. 
 3. select all the elements to make the cart and group them into one. 
@@ -14,8 +19,8 @@
 9. Make the moving gestures for the bull and the cart. 
 10. It can be done by creating frames for each individual item. 
 
-##Output
+## Output
 youtube link:- https://youtu.be/c2RLai6_X0U
 
-##Result
+## Result
 Therefore a Bullockcart is created successfully. 
